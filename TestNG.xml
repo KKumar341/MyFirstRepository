@@ -1,0 +1,9 @@
+<suite name="Regression TestSuite">
+
+<test name="Java Test">
+	<classes>
+		<class name="_Jan.simply.JavaFile1"></class>
+		<class name="_Jan.simply.JavaFile2"></class>
+	</classes>
+</test>
+</suite>
